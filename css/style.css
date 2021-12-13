@@ -1,0 +1,29 @@
+.body{
+    font: 20px Arial, sans-serif;
+}
+.navbar{
+    background-color: #58FA58;
+}
+.biblio{
+    background-color: #819FF7;
+    color: white;
+}
+.margin{
+    padding-bottom: 50px;
+    padding-top:10px;
+}
+.cadastros{
+background-color: #F7D358;
+color: white;
+}
+
+
+.lista{
+    background-color: #58FAAC;
+    color: white;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
